@@ -14,15 +14,15 @@
 
 ---
 
-## 🏆 Achievements
-- 👨‍💻 Completed Internship at **CodeAlpha** 
-- 🚀 Built 10+ AI and Python-based projects
+##  Achievements
+-  Completed Internship at **CodeAlpha** 
+-  Built 10+ AI and Python-based projects
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - 📧 workinng27@email.com 
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/abdullah-ghafoor-115366323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+- 💼 [LinkedIn] ([https://linkedin.com/in/your-link](https://www.linkedin.com/in/abdullah-ghafoor-115366323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
 - 🌐 Portfolio: coming soon...
 
 ---
