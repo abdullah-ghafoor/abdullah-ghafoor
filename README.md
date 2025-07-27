@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Abdullah Ghafoor
+#  Hi, I'm Abdullah Ghafoor
 
-🎓 BS Artificial Intelligence Student  
-💡 Passionate about building real-world AI & Web projects  
-🔭 Currently working on: Web Chat App, Object Detection App  
-🛠️ Tools I love: Python, Django, Streamlit, OpenCV, NLP, Machine Learning  
-🌱 Currently Learning: Deep Learning, LLMs, and Gen Ai
+ BS Artificial Intelligence Student  
+ Passionate about building real-world AI  projects  
+ Currently working on: Machine Learning, NLP, Computer Vision  
+ Tools I love: Python, Scikit Learn, nltk, OpenCV, Streamlit 
+ Currently Learning: Deep Learning, LLMs, and Gen Ai, Agentic Ai
  
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 `Python` `Machine Learning` `NLP` `OpenCV` `Django` `Streamlit` `SQLite`  
 `Tkinter` `Git` `GitHub` `Jupyter Notebook` `HTML` `CSS` `API Integration`
 
